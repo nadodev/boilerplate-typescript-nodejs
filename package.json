@@ -27,6 +27,8 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "git-commit-msg-linter": "^3.2.8"
+    "git-commit-msg-linter": "^3.2.8",
+    "pg": "^8.7.1",
+    "typeorm": "^0.2.37"
   }
 }
